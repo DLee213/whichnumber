@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Which numbers bigger</string>
+    <string name="main_score">Score:</string>
+</resources>
